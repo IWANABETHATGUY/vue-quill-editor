@@ -29,7 +29,7 @@ var quill = new Quill('#editor-container', {
     return item.value
   })
   ```
-**if you wnat to use it in vue-quill-editor ,you need to modified it in the init options**
+**if you want to use it in vue-quill-editor ,you need to modified it in the init options**
 
 
 
